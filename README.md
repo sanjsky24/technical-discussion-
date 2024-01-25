@@ -16,5 +16,6 @@ This is a good example of [my code](https://gist.github.com/sanjsky24/248384c29f
 This is my first google colab [notebook](https://colab.research.google.com/github/sanjsky24/technical-discussion-/blob/main/Firstongooglecolab.ipynb)
 
 ### Images
-This is the first [image](<img width="361" alt="Screenshot 2024-01-26 at 1 25 38 AM" src="https://github.com/sanjsky24/technical-discussion-/assets/157721052/e272a040-388c-4248-aa99-51c78afcd7e6">) 
+This is the first image
+<img width="361" alt="Screenshot 2024-01-26 at 1 25 38 AM" src="https://github.com/sanjsky24/technical-discussion-/assets/157721052/e272a040-388c-4248-aa99-51c78afcd7e6"> 
 
