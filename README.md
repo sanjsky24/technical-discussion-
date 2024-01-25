@@ -15,3 +15,6 @@ This is a good example of [my code](https://gist.github.com/sanjsky24/248384c29f
 ##### Google colab
 This is my first google colab [notebook](https://colab.research.google.com/github/sanjsky24/technical-discussion-/blob/main/Firstongooglecolab.ipynb)
 
+### Images
+This is the first image 
+
