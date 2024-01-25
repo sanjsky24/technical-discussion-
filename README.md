@@ -13,4 +13,5 @@ This is a demo repo to try out whats implimented in my course
 This is a good example of [my code](https://gist.github.com/sanjsky24/248384c29fd7c539bbec4884b3e01099)
 
 ##### Google colab
-This is my first google colab [notebook]
+This is my first google colab [notebook](https://colab.research.google.com/github/sanjsky24/technical-discussion-/blob/main/Firstongooglecolab.ipynb)
+
